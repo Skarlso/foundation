@@ -209,7 +209,7 @@ Graduated,Fluentd,Naotoshi SEO,ZOZO Technologies,sonots,https://github.com/fluen
 Graduated,Jaeger,Yuri Shkuro,Meta,yurishkuro,https://github.com/jaegertracing/jaeger/blob/main/MAINTAINERS.md
 ,,Albert Teoh,PackSmith,albertteoh,
 ,,Joe Elliot,Grafana Labs,joe-elliott,
-,,Jonah Kowall,Aiven,jkowall,
+,,Jonah Kowall,Paessler,jkowall,
 ,,Pavol Loffay,Red Hat,pavolloffay,
 ,,Mahad Zaryab,Bloomberg,mahadzaryab1,
 Graduated,Vitess,Deepthi Sigireddi,PlanetScale,deepthi,https://github.com/vitessio/vitess/blob/master/MAINTAINERS.md
@@ -347,7 +347,7 @@ Graduated,Helm,Matt Butcher,Fermyon,technosophos,https://github.com/helm/communi
 ,,Reinhard Nägele,IBM,unguiculus,
 ,,Josh Dolitsky,Chainguard,jdolitsky,
 ,,Scott Rigby,Replicated,scottrigby,
-,,Karen Chu,Independent,karenhchu,
+,,Karen Chu,Apple,karenhchu,
 Graduated,Rook,Satoru Takeuchi,Cybozu,satoru-takeuchi,https://github.com/rook/rook/blob/master/OWNERS.md
 ,,Jared Watts,Upbound,jbw976,
 ,,Sebastien Han,Red Hat,leseb,
@@ -418,6 +418,7 @@ Graduated,Falco,Andrea Terzolo,Sysdig,andreagit97,https://github.com/falcosecuri
 ,,Lorenzo Susini,Sysdig,loresuso,
 ,,Luca Guerra,Sysdig,lucaguerra,
 ,,Mark Stemm,Sysdig,mstemm,
+,,Leonardo Di Giovanna,Sysdig,ekoops,
 ,,Massimiliano Giovagnoli,Clastix,maxgio92,
 ,,Mauro Ezequiel Moltrasio,RedHat,molter73,
 ,,Melissa Kilby,Apple,incertum,
@@ -557,12 +558,10 @@ Incubating,Strimzi,Jakub Scholz,Red Hat,scholzj,https://github.com/strimzi/strim
 Incubating,KubeVirt,David Vossel,Red Hat,davidvossel,https://github.com/kubevirt/community/blob/master/MAINTAINERS.md
 ,,Vladik Romanovsky,Red Hat,vladikr,
 ,,Roman Mohr,Google,rmohr,
-,,Vasiliy Ulyanov,SuSE,vasiliy-ul,
 ,,Stu Gott,Red Hat,stu-gott,
 ,,Fabian Deutsch,Red Hat,fabiand,
 ,,Ryan Hallisey,Nvidia,rthallisey,
 ,,Andrew Burden,Red Hat,aburdenthehand,
-,,Alice Frosi,Red Hat,alicefr,
 ,,Ľuboslav Pivarč,Red Hat,xpivarc,
 Incubating,Longhorn,Sheng Yang,SUSE,yasker,https://github.com/longhorn/longhorn/blob/master/MAINTAINERS
 ,,Shuo Wu,SUSE,shuo-wu,
@@ -1296,6 +1295,7 @@ Sandbox, OpenFGA, Adrian Tam, Okta, adriantam, https://github.com/openfga/commun
 ,,Daniel Yeam, Okta, dyeam0,
 ,,Patrick Dillon, Okta, pdillon,
 ,,Siddhant Khare, Individual, Siddhant-K-code,
+,,Maurice Ackel, Netlight, mauriceackel,
 Sandbox, Lima, Akihiro Suda, NTT, AkihiroSuda, https://github.com/lima-vm/lima/blob/master/MAINTAINERS.md
 ,,Jan Dubois, SUSE, jandubois,
 ,,Anders F Björklund, Individual, afbjorklund,
@@ -1584,6 +1584,7 @@ Incubating,Kubeflow,Aldo Culquicondor,Google,alculquicondor,https://github.com/k
 ,,Prashant Sharma,IBM,scrapcodes,
 ,,Ricardo Martinelli de Oliveira,Red Hat,rimolive,
 ,,Rong Ou,NVIDIA,rongou,
+,,Shao Wang,Shanghai Jiao Tong University,Electronic-Waste,
 ,,Stefano Fioravanzo,HPE,StefanoFioravanzo,
 ,,Thea Lamkin,Google,theadactyl,
 ,,Tommy Li,IBM,Tomcli,
@@ -1947,3 +1948,10 @@ Incubating,Dragonfly,Allen Sun,Alibaba Group,allencloud,https://github.com/drago
 Sandbox,urunc,Charalampos Mainas,Nubificus,cmainas,https://urunc.io/developer-guide/maintainers/
 ,,Georgios Ntoutsos,Nubificus,gntouts,
 ,,Anastassios Nanos,Nubificus,ananos,
+Sandbox,kagent,Art Berger,Solo.io,artberger,https://github.com/kagent-dev/community/blob/main/MAINTAINERS.md
+,,Eitan Yarmush,Solo.io,EItanya,
+,,Lin Sun,Solo.io,linsun,
+,,Nadine Spies,Solo.io,Nadine2016,
+,,Peter Jausovec,Solo.io,peterj,
+,,Scott Weiss,Solo.io,ilackarms,
+,,Yuval Kohavi,Solo.io,yuval-k,
